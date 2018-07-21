@@ -1,10 +1,10 @@
 ## 欢迎来到我的个人博客Welcome to my blog
 
-新手用，努力学习。
+新手用，努力学习。:smile:
 
 ### 本网页主题
 本网页使用Jekyll主题的布局以及样式
 
 
 
--AMoon
+-AMoon:cat:
